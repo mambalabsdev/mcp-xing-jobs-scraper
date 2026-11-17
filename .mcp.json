@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-xing-jobs-scraper": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-xing-jobs-scraper"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}

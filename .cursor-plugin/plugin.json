@@ -1,0 +1,39 @@
+{
+  "name": "mcp-xing-jobs-scraper",
+  "displayName": "XING Jobs Scraper",
+  "version": "1.0.0",
+  "description": "MCP server for XING Jobs Scraper: XING job listings by keyword and location.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-xing-jobs-scraper",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "xing",
+    "jobs",
+    "job-listings",
+    "dach",
+    "germany",
+    "hiring",
+    "scraper",
+    "apify",
+    "mcp"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "xing",
+    "jobs",
+    "job-listings",
+    "dach",
+    "germany",
+    "hiring",
+    "scraper",
+    "apify",
+    "mcp"
+  ],
+  "mcpServers": ".mcp.json"
+}
