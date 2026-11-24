@@ -1,7 +1,7 @@
 {
   "name": "mcp-xing-jobs-scraper",
   "displayName": "XING Jobs Scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for XING Jobs Scraper: XING job listings by keyword and location.",
   "author": {
     "name": "Mamba Labs",
